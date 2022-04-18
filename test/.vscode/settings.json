@@ -1,0 +1,11 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "ostream": "cpp",
+        "typeinfo": "cpp",
+        "iosfwd": "cpp",
+        "new": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp"
+    }
+}
